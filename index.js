@@ -605,4 +605,4 @@ function shareNotification(sender, target)
 	target.send(sender + " has requested to CARD share with you. Type !accept or !decline");
 }
 
-client.login('NjYyMzkyNTAwODE5ODUzMzIz.XhifbA.yGkGmVdV3bD_KhVyVc8vwPYoz90');
+client.login(<INSERT YOUR DISCORD GUILD TOKEN HERE>);
